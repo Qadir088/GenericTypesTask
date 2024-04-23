@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\GenericTypesTask\GenericTypesTask\obj\Debug\GenericTypesTask.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\GenericTypesTask\GenericTypesTask\obj\Debug\GenericTypesTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\GenericTypesTask\GenericTypesTask\bin\Debug\GenericTypesTask.exe.config
+C:\Users\HP\source\repos\GenericTypesTask\GenericTypesTask\bin\Debug\GenericTypesTask.exe
+C:\Users\HP\source\repos\GenericTypesTask\GenericTypesTask\bin\Debug\GenericTypesTask.pdb
+C:\Users\HP\source\repos\GenericTypesTask\GenericTypesTask\obj\Debug\GenericTypesTask.exe
+C:\Users\HP\source\repos\GenericTypesTask\GenericTypesTask\obj\Debug\GenericTypesTask.pdb
